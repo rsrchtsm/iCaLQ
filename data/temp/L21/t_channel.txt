@@ -1,0 +1,6 @@
+# run_name tag cross error Nb_event cross_after_matching nb_event_after matching
+1000 tag_1 0.070534 0.00019086 10000
+1500 tag_1 0.015265 3.5668e-05 10000
+2000 tag_1 0.0050174 1.7988e-05 10000
+2500 tag_1 0.0021027 4.9219e-06 10000
+3000 tag_1 0.0010343 2.7372e-06 10000

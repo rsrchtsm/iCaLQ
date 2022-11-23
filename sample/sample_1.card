@@ -1,0 +1,5 @@
+2000			# mass
+LM23L LM33R		# couplings
+yes				# ignore single and pair
+2				# significance
+0.1				# systematic error
